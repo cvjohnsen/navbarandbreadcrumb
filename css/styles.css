@@ -26,8 +26,7 @@ header h2 {
 }
 
 .row-content {
-    padding: 30px;
-    border-bottom: 1px ridge;
+    padding: 50px;
     min-height: 200px;
 }
 .navbar {
@@ -39,3 +38,6 @@ header h2 {
     padding: 20px 0;
 }
 
+hr {
+    visibility: hidden;
+}
