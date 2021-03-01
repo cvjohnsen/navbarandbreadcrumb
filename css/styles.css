@@ -38,6 +38,8 @@ header h2 {
     padding: 20px 0;
 }
 
-hr {
-    visibility: hidden;
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
 }
